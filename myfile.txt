@@ -1,0 +1,41 @@
+
+orange appeares at 27 at quadrant 
+green appeares at 20at quadrant
+yellow appeares at 6 at quadrant 1
+
+yellow dissapears at 77
+
+yellow appeares at 77 at quadrant 3
+
+yellow dissapears at 104
+
+orange appeares at 27 at quadrant 
+yellow appeares at 105 at quadrant 3
+
+yellow dissapears at 110
+
+green appeares at 20at quadrant
+orange appeares at 27 at quadrant 
+green appeares at 20at quadrant
+yellow appeares at 110 at quadrant 3
+
+yellow dissapears at 121
+
+orange appeares at 27 at quadrant 
+orange appeares at 27 at quadrant 
+yellow appeares at 145 at quadrant 1
+
+yellow dissapears at 154
+
+green appeares at 20at quadrant
+green appeares at 20at quadrant
+orange appeares at 27 at quadrant 
+orange appeares at 27 at quadrant 
+orange appeares at 27 at quadrant 
+orange appeares at 27 at quadrant 
+orange appeares at 27 at quadrant 
+green appeares at 20at quadrant
+orange appeares at 27 at quadrant 
+yellow appeares at 155 at quadrant 3
+
+yellow dissapears at 208
