@@ -1,0 +1,88 @@
+
+orange appeares at 28 at quadrant 2
+
+orange dissapears at 57 at quadrant 2
+
+green appeares at 21at quadrant 3
+
+green dissapears at 71 at quadrant 3
+
+yellow appeares at 7 at quadrant 1
+
+yellow dissapears at 78
+
+yellow appeares at 78 at quadrant 3
+
+yellow dissapears at 105
+
+orange appeares at 57 at quadrant 1
+
+orange dissapears at 110 at quadrant 1
+
+yellow appeares at 106 at quadrant 3
+
+yellow dissapears at 111
+
+orange appeares at 111 at quadrant 1
+
+orange dissapears at 114 at quadrant 1
+
+green appeares at 71at quadrant 1
+
+green dissapears at 115 at quadrant 1
+
+orange appeares at 114 at quadrant 1
+
+orange dissapears at 117 at quadrant 1
+
+green appeares at 115at quadrant 1
+
+green dissapears at 118 at quadrant 1
+
+yellow appeares at 111 at quadrant 3
+
+yellow dissapears at 123
+
+orange appeares at 118 at quadrant 1
+
+orange dissapears at 124 at quadrant 1
+
+orange appeares at 126 at quadrant 1
+
+orange dissapears at 130 at quadrant 1
+
+yellow appeares at 147 at quadrant 1
+
+yellow dissapears at 156
+
+green appeares at 118at quadrant 2
+
+green dissapears at 160 at quadrant 2
+
+orange appeares at 131 at quadrant 4
+
+orange dissapears at 165 at quadrant 4
+
+orange appeares at 165 at quadrant 4
+
+orange dissapears at 170 at quadrant 4
+
+orange appeares at 175 at quadrant 1
+
+orange dissapears at 187 at quadrant 1
+
+orange appeares at 188 at quadrant 1
+
+orange dissapears at 197 at quadrant 1
+
+green appeares at 163at quadrant 4
+
+green dissapears at 206 at quadrant 4
+
+orange appeares at 197 at quadrant 1
+
+orange dissapears at 210 at quadrant 1
+
+yellow appeares at 157 at quadrant 3
+
+yellow dissapears at 210
